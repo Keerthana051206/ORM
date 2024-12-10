@@ -48,7 +48,8 @@ class EmployeeAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/5010e5a8-ccdd-4859-b1cb-b8652c619554)
+![Screenshot (28)](https://github.com/user-attachments/assets/dcca559e-cf03-4917-9e79-d239ff3db530)
+
 
 Include the screenshot of your admin page.
 
